@@ -1,34 +1,60 @@
-Hi, I'm Suleman Niamat 👋
-I am a Data Science undergraduate at Virtual University (VU) with a strong passion for exploring the intersection of data-driven insights and AI innovation. I am actively working toward a career in Applied Machine Learning and Research.
+# Hi, I'm Suleman Niamat 👋
 
-🛠 Technical Skills
-Languages: Python (Primary), SQL
+Welcome — I'm a Data Science undergraduate at Virtual University (VU) with a passion for turning data into insight and building AI-powered solutions that help people.
 
-Data Science Stack: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+---
 
-AI/ML: Machine Learning Fundamentals, Neural Networks, Predictive Modeling
+## 🚀 About Me
 
-Tools: Git/GitHub, Jupyter Notebooks
+- Degree: BS in Data Science (CGPA: 3.46)
+- Interests: Applied Machine Learning, Predictive Analytics, AI for Social Good
+- Career goal: Become a researcher who bridges theory and real-world implementation
 
-🎓 Certifications
-IBM Data Science Professional Certificate
+---
 
-AI Fundamentals – (NAVTTC)
+## 🛠️ Technical Skills
 
-🔬 Research Interests
-I am deeply interested in exploring how AI can solve real-world problems. My current research focus areas include:
+- Languages: Python (Primary), SQL
+- Data Stack: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- AI / ML: Machine Learning fundamentals, Neural Networks, Predictive Modeling
+- Tools: Git & GitHub, Jupyter Notebooks
 
-Applied Machine Learning: Developing predictive models for structured and unstructured datasets.
+---
 
-Predictive Analytics: Leveraging historical data to forecast trends and improve decision-making.
+## 🎓 Certifications
 
-AI for Social Good: Exploring ethical AI applications that can create tangible impacts in education, health, or local industry.
+- IBM Data Science Professional Certificate
+- AI Fundamentals — NAVTTC
 
-📈 Academic & Career Goals
-Education: Currently pursuing a BS in Data Science (3.46 CGPA).
+---
 
-Career: Aspiring researcher aiming to bridge the gap between theoretical AI concepts and industry-level implementation.
+## 🔬 Research & Projects
 
-🔗 Connect with me
-Looking for collaboration or research opportunities? Feel free to reach out via LinkedIn!
-www.linkedin.com/in/muhammad-suleman-niamat-2872233a1
+I enjoy building predictive models and experimenting with data pipelines. Current research interests and example project ideas:
+
+- Predictive modeling for time-series and tabular data
+- Applying ML for education, health, or local-industry challenges
+- Evaluating model fairness and interpretability for ethical AI
+
+Add links to repositories here to showcase completed projects (e.g., a portfolio of notebooks or deployed demos).
+
+---
+
+## 📈 Academic & Career Goals
+
+- Continue deepening machine learning and statistical foundations
+- Gain experience with end-to-end ML systems and deployment
+- Collaborate on research or impact-driven projects
+
+---
+
+## 🔗 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-suleman-niamat-2872233a1
+- GitHub: https://github.com/Sulemanmalik1
+
+I'd love to connect for collaborations, research opportunities, or just to talk about data and AI — feel free to reach out!
+
+---
+
+Thanks for visiting my profile ✨

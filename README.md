@@ -6,7 +6,7 @@ Welcome — I'm a Data Science undergraduate at Virtual University (VU) with a p
 
 ## 🚀 About Me
 
-- Degree: BS in Data Science (CGPA: 3.46)
+- Degree: BS in Data Science (CGPA: 3.45)
 - Interests: Applied Machine Learning, Predictive Analytics, AI for Social Good
 - Career goal: Become a researcher who bridges theory and real-world implementation
 
